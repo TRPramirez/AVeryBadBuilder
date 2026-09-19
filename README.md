@@ -2,7 +2,7 @@
 
 **AVeryBadBuilder** is a tool for creating BadUpdate / ABadAvatar USB drives for the Xbox 360. It automates the process of formatting the USB drive, downloading required files, extracting them, adding homebrew, and downloading dashboard updates if needed.
 
-> Based on the original [BadBuilder](https://github.com/Pdawg11239) by **Pdawg11239**.
+> Based on the original [BadBuilder](https://github.com/Pdawg11239) by **Pdawg-bytes**.
 
 ## Features
 
@@ -35,6 +35,10 @@
 - Copies all necessary files.
 
 ## How to Use
+
+Tutorial/Preview:
+[Click Me!](https://streamable.com/6lqdl2)
+
 
 1. Launch the executable as **Administrator** / **sudo**. It will open inside of a Terminal window. If the process is not elevated, AVeryBadBuilder will refuse to launch.
 
